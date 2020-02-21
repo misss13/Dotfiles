@@ -1,0 +1,9 @@
+Hi this is my dotfile ;3
+
+-shell: zsh + oh-my-zsh
+-wm: i3-gaps
+-compositor: compton
+-dmenu: rofi
+-status bar: bumblebee-status
+-color scheme: pywal
+-wallpaper: https://wallpaperscraft.com/wallpaper/girl_umbrella_anime_141156
