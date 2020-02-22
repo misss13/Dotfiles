@@ -1,9 +1,10 @@
-Hi this is my dotfile ;3
+Hi this is my debian 10 dotfile ;3
 
--shell: zsh + oh-my-zsh
+-shell: zsh + oh-my-zsh https://github.com/ohmyzsh/ohmyzsh
 -wm: i3-gaps
 -compositor: compton
--dmenu: rofi
--status bar: bumblebee-status
--color scheme: pywal
+-dmenu: rofi edited theme (original) https://github.com/davatorium/rofi-themes/blob/master/User%20Themes/solarized-darker.rasi
+-status bar: bumblebee-status https://github.com/tobi-wan-kenobi/bumblebee-status
+-color scheme: pywal https://github.com/dylanaraps/pywal
 -wallpaper: https://wallpaperscraft.com/wallpaper/girl_umbrella_anime_141156
+-vim plugin manager: bundle vundle https://github.com/tobi-wan-kenobi/bumblebee-status
