@@ -1,0 +1,200 @@
+{
+    "squares": [
+        {
+            "name": "Media",
+            "links": [
+                {
+                    "name": "UnixPorn",
+                    "url": "https://www.reddit.com/r/unixporn/"
+                },
+                {
+                    "name": "Makeup",
+                    "url": "https://www.reddit.com/r/MakeupAddiction/"
+                },
+                {
+                    "name": "facebook",
+                    "url": "https://www.facebook.com/"
+                },
+                {
+                    "name": "messenger",
+                    "url": "https://messenger.com/"
+                },
+                {
+                    "name": "Reddit",
+                    "url": "https://www.reddit.com/"
+                },
+                {
+                    "name": "IMDb",
+                    "url": "https://www.imdb.com/"
+                }
+            ]
+        },
+        {
+            "name": "animu",
+            "links": [
+                {
+                    "name": "Kissanime",
+                    "url": "https://www.kissanime.ru/"
+                },
+                {
+                    "name": "Nyaa",
+                    "url": "https://nyaa.si/"
+                },
+                {
+                    "name": "imgur",
+                    "url": "http://imgur.com/"
+                },
+                {
+                    "name": "MyAnimeList",
+                    "url": "https://myanimelist.net/"
+                },
+                {
+                    "name": "AniList",
+                    "url": "https://anilist.co/home"
+                },
+                {
+                    "name": "AMQ",
+                    "url": "https://animemusicquiz.com/"
+                },
+                {
+                    "name": "KissCartoon",
+                    "url": "https://kisscartoon.is/"
+                },
+                {
+                    "name": "4anime",
+                    "url": "https://4anime.to"
+                }
+            ]
+        },
+        {
+            "name": "programming",
+            "links": [
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/"
+                },
+                {
+                    "name": "stackoverflow",
+                    "url": "https://stackoverflow.com/"
+                },
+                {
+                    "name": "cppreference",
+                    "url": "http://en.cppreference.com/w/"
+                },
+                {
+                    "name": "vimstuff",
+                    "url": "https://vimawesome.com/"
+                },
+                {
+                    "name": "FORchan",
+                    "url": "http://boards.4channel.org/g/"
+                }
+            ]
+        },
+        {
+            "name": "Art",
+            "links": [
+                {
+                    "name": "ArtStation",
+                    "url": "https://www.artstation.com/"
+                },
+                {
+                    "name": "3D",
+                    "url": "http://boards.4channel.org/3/"
+                },
+                {
+                    "name": "BlenderGuru",
+                    "url": "https://www.blenderguru.com/"
+                }
+            ]
+        },
+        {
+            "name": "warez & online",
+            "links": [
+                {
+                    "name": "pdfki",
+                    "url": "http://pdf-giant.com/"
+                },
+                {
+                    "name": "gry",
+                    "url": "http://fitgirl-repacks.site/"
+                },
+                {
+                    "name": "filmesy",
+                    "url": "https://ololo.to/"
+                },
+                {
+                    "name": "all",
+                    "url": "https://www.ddlvalley.me/"
+                },
+                {
+                    "name": "filmesy HD",
+                    "url": "https://flixgo.biz/"
+                },
+                {
+                    "name": "fil",
+                    "url": "http://filechef.com/"
+                },
+                {
+                    "name": "lump",
+                    "url": "https://lumpysoft.com/"
+                }
+            ]
+        },
+        {
+            "name": "search",
+            "prefix": "-",
+            "options": [
+                {
+                    "opt": "p",
+                    "url": "https://pastebin.com/search?q=",
+                    "space": "+"
+                },
+                {
+                    "opt": "y",
+                    "url": "https://www.youtube.com/results?search_query=",
+                    "space": "+"
+                },
+                {
+                    "opt": "w",
+                    "url": "https://wiki.archlinux.org/index.php?search=",
+                    "space": "+"
+                }
+            ]
+        }
+    ],
+    "bool": {
+        "borders": true,
+        "alwaysopen": false,
+        "background_image": false,
+        "hide_gear_button": false
+    },
+    "style": {
+        "square_size": "175px",
+        "square_spacing": "6px",
+        "heading_font": "DejaVu Sans",
+        "link_font": "DejaVu Sans",
+        "heading_font_size": "14px",
+        "link_font_size": "14px",
+        "background": "#282a36",
+        "foreground": "#3c3e4d ",
+        "heading_color": "#e4756b",
+        "link_color": "#c1cadd",
+        "border_color": "#e4756b",
+        "border_width_normal": "0",
+        "border_width_hovered": "2px 0",
+        "border_radius": "0",
+        "square_shadow": "0",
+        "focus_color": "#e4756b",
+        "focus_bg_color": "#454757",
+        "search_color": "#c1cadd",
+        "search_bg_color": "#454757"
+    },
+    "ext": {
+        "images": [
+            "https://images.unsplash.com/photo-1497076888581-9acaad5f74cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9"
+        ],
+        "size": "cover",
+        "filter": "opacity(0.2) grayscale(1)"
+    }
+}
