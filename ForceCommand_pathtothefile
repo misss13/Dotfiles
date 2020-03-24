@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#cat ~/.banner
+echo -e '\e[92m
+         _          
+        / /\        
+       / /  \       
+      / / /\ \      
+     / / /\ \ \     
+    / / /  \ \ \    
+   / / /___/ /\ \   
+  / / /_____/ /\ \  
+ / /_________/\ \ \ 
+/ / /_       __\ \_\
+\_\___\     /____/_/ $		h    o    s    t    i    n   k
+
+'
+echo ""
+echo -e "\e[35m█ Last Login....: \e[33m$(last | head -n1 | cut -c40-56,58-74,23-38)"
+echo -e "\e[35m█ Uptime........: \e[33m`uptime -p`"
+echo -e "\e[35m█ Temperature...: \e[33m`sensors | nl | egrep 'Core 0' | cut -c22-26`"
+echo -en "\e[35m█ Weather.......: \e[33m" 
+curl 'http://wttr.in/bielsko-biala?format=%22%l:+%c+%t+%C+%p%'
+
+/bin/zsh
